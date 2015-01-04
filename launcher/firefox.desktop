@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/firefox
+Icon=firefox
+Icon[en_US]=firefox
+Name[en_US]=firedox
+Name=firefox

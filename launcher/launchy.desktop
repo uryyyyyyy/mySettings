@@ -1,0 +1,8 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/launchy
+Icon=launchy_icon
+Icon[en_US]=launchy_icon
+Name[en_US]=launchy

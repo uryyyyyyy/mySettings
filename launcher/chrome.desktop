@@ -1,0 +1,8 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/google-chrome-stable --renderer-process-limit=1
+Icon=google-chrome
+Icon[en_US]=google-chrome
+Name[en_US]=google-chrome
+Name=google-chrome

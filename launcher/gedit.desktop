@@ -1,0 +1,8 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/gedit
+Name=gedit
+Icon=accessories-text-editor
+Icon[en_US]=accessories-text-editor
+Name[en_US]=gedit

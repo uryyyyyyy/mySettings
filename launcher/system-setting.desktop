@@ -1,0 +1,7 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/unity-control-center --overview
+Icon=preferences-system
+Icon[en_US]=preferences-system
+Name[en_US]=system-setting

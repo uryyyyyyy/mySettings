@@ -1,0 +1,8 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/nautilus
+Name=nautilus
+Icon=system-file-manager
+Icon[en_US]=system-file-manager
+Name[en_US]=nautilus
