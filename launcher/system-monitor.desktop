@@ -1,0 +1,8 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/gnome-system-monitor
+Icon=utilities-system-monitor
+Icon[en_US]=utilities-system-monitor
+Name[en_US]=system-monitor

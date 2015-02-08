@@ -1,0 +1,6 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=SRware iron
+Exec=/usr/share/iron/iron
+Icon=google-chrome
+Type=Application
