@@ -1,0 +1,8 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/gnome-terminal
+Icon=gnome-terminal
+Icon[en_US]=gnome-terminal
+Name[en_US]=terminal
